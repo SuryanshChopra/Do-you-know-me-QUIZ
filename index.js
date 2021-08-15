@@ -35,6 +35,16 @@ var questions = [{
 },
 
 {
+  question: "What is Suryansh's favourite anime? ",
+  answer: "One piece"
+},
+
+{
+  question: "How many siblings does Suryansh have? ",
+  answer: "1"
+},
+
+{
   question: "Suryansh has a pet. What is his name? ",
   answer: "Goldy"
 }];
